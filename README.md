@@ -7,3 +7,5 @@ After starting with a UX Design course at the National Technological University 
 During 2022 and 2023, I deepened my technical skills with a Front-end Developer course first and then a Full Stack course at the SoyHenry bootcamp. It was a revelation: programming is not just algorithms and code; it's an art, where design and logic coexist. This resonated with my passion for creativity and design, confirming that I had found my new vocation.
 
 Now, I am excited to integrate my extensive experience with my newly acquired technical expertise. My goal is to contribute to projects where aesthetics and functionality intertwine, leveraging my diverse experience to bring a unique perspective. I am eager to explore opportunities in this dynamic field, continuously learning and evolving along the way.
+
+At the moment, I am open to work opportunities. Contact me by sending an email to facundo91.1401@gmail.com and let's chat!
