@@ -1,14 +1,12 @@
 Hello world :)
 
-I'm a professional with a twist, blending a rich background in culinary arts with a passion for frontend development. Over the past two years, I've been on an exciting journey, starting with a UX Design course at the National Technological University of Buenos Aires and diving into the tech world thereafter.
+Hello world :)
 
-My journey has been diverse, encompassing roles in customer service at Airbnb, content moderation at Snapchat, and freelance account management in marketing. Alongside these experiences, I dedicated eight months to a rigorous Front-end Developer course and over 800 hours to a comprehensive Full Stack bootcamp at SoyHenry, solidifying my technical foundation.
+I started my career as a developer by learning PHP, where I discovered that I love blending logic and creativity to solve problems. This passion also led me to explore gastronomy as a chef, where logic and creativity are essential for crafting recipes and managing the kitchen in real time.
 
-Beyond my tech endeavors, I'm currently immersed in the development and maintenance of montagne.com.ar, where I contribute to the enhancement of user experiences and functionality.
+Currently, I am fully focused on enhancing my skills in web development and user experience. I am committed to learning and pushing the boundaries of what is possible in the digital world, always looking for ways to make online interactions more intuitive and satisfying.
 
-My transition from chef to developer isn't just about learning new skills; it's about leveraging the organizational, multitasking, and leadership abilities honed in the kitchen. These skills seamlessly integrate into my approach, allowing me to thrive in fast-paced environments and effectively manage projects.
-
-In addition to my freelance consulting for e-commerce ventures, where I streamline API integrations, I serve as a lead teaching assistant at SoyHenry. Here, I orchestrate coding practice programs, drawing on agile methodologies and educational leadership to empower students.
+I am excited to continue growing in this field and to apply everything I've learned from both programming and cooking to offer innovative and effective solutions.
 
 I'm passionate about projects where aesthetics meet functionality, and I'm eager to bring my unique blend of skills and experiences to the table. 
 You can explore my portfolio here https://facundofernandez-portfolio.netlify.app/ 
