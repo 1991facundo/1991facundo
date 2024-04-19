@@ -1,7 +1,5 @@
 Hello world :)
 
-Hello world :)
-
 I started my career as a developer by learning PHP, where I discovered that I love blending logic and creativity to solve problems. This passion also led me to explore gastronomy as a chef, where logic and creativity are essential for crafting recipes and managing the kitchen in real time.
 
 Currently, I am fully focused on enhancing my skills in web development and user experience. I am committed to learning and pushing the boundaries of what is possible in the digital world, always looking for ways to make online interactions more intuitive and satisfying.
