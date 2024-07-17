@@ -1,8 +1,11 @@
-Hello world :)
+<Hello world!> 🚀
 
-I'm a fervent advocate for clean, understandable, and scalable code that precisely meets client and business needs. My professional journey is characterized by a commitment to team collaboration and a ceaseless curiosity for learning new technologies. I am result-oriented and thrive in environments that embrace agile methodologies and Scrum frameworks. I believe in prioritizing the user experience—it's not just about building a website or software, but about crafting experiences that resonate and satisfy. I find joy in the challenges and creativity of programming; its not just my career, its a playground for innovation.
-I'm passionate about projects where aesthetics meet functionality, and I'm eager to bring my unique blend of skills and experiences to the table. 
+Welcome to my coding corner! I'm all about crafting clean, slick, and scalable code that nails client and business needs. My tech journey is a mix of team spirit, endless curiosity, and a passion for learning the latest and greatest in technology.
 
-You can explore my portfolio here https://facundofernandez.net/
+Right now, I'm diving into the exciting world of integrating AI into front-end development, making our digital experiences smarter and more awesome. For me, it's not just about building stuff—it's about creating experiences that users love and remember. Coding isn't just my job; it's my playground where creativity and problem-solving come to life.
 
-I'm enthusiastic about the prospect of contributing to innovative projects and continuing my growth in this dynamic field. Drop me a line at facundo91.1401@gmail.com, and let's chat about how we can collaborate!
+🔗 Check out my work here: facundofernandez.net.
+
+I'm always up for new challenges and cool projects. If you want to team up and make something amazing, shoot me a message at facundo91.1401@gmail.com. 
+
+💻✨ Let's make magic happen!
